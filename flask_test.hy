@@ -1,7 +1,3 @@
-#!/usr/bin/env hy
-
-;; snippet by HN user volent:
-
 (import [flask [Flask render_template request]])
 (import os)
 
