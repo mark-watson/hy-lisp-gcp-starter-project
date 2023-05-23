@@ -1,5 +1,7 @@
 # An example for my book "A Lisp Programmer Living in Python-Land: The Hy Programming Language" deploying Hy language Flask web apps on Google Cloud Platform
 
+### Updated 2023/05/23 for Hylang version 0.26.0
+
 My book on leanpub: [A Lisp Programmer Living in Python-Land: The Hy Programming Language](https://leanpub.com/hy-lisp-python)
 
 This is an example for the next edition of my book.
